@@ -53,7 +53,7 @@
         },
         {
             "name": "Forge",
-            "sha256": "a87bc678d8c18a689001fe0d81c32a0bb5be0dbae6c7713d21d8777af6b58857",
+            "sha256": "69fd271c587d64c1996f90a2c4ca91e044d133114c705ced69d587c7e22c738c",
             "uid": "net.minecraftforge"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "Quilt Loader",
-            "sha256": "38694c3212e03841958859d364f80b51769d1bea8932c360a6be83c62a330b91",
+            "sha256": "29bb5ba4aa3b381a0f59481496fb90d16ab8244eb054e16d7de8012e7fff3963",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]

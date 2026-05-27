@@ -5,225 +5,231 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "38dca8c2134c5459ac6bfccd2a487cf3c6f748f3a6b192c1cf6471db68488402",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "52890a364719a8d01d063242d5af0d8d803edb92e4c83cd55920113558a86e2f",
             "version": "1.2"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "804f884a8990d0eeb9ff7ca55e307b17297a3f7af29f929676fad25e0b4acdc5",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "2c2b22b6944bf030a464f6ca1ec7a61a60d219df723dbd20d3fe0452e2c42c6a",
             "version": "1.3.1"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "5952169ef52b1c11b7c6287100d9bc2bae6d4bb5dcd8d05957db1a312ce43546",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "a8735e591a2813a9597fc7a6cf2ce1078e2a0ad114748a28d304454e7c6cca90",
             "version": "1.3"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "620cf6d212ef1e484b004f95c7e4364b2f23950ac4a22bb24a4e321a4c001eb4",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "a1b854f8e19e4e5ac9dafa566950671cf8af3c87cf746320fcca9dec5ff2583e",
             "version": "1.5.12"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "8be45a719e36770c2092ca1fcd184a15b8b7d10471a815dffb29e9c7a9b8fff0",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "2cac5207c3571497155434512071b50e8d3f38258168be2806f560eb8c7798d0",
             "version": "1.5.13"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "72b12b0d0fb65163ee8e113d9b2b33682db37b44e6e713160fb063a407aaeb47",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "f5dd545a5d1cc56aec6b2386ce9730b1dfd62f76aa8c4893238628e87ec06505",
             "version": "1.5.21"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "41f69b35bff1304ee988b0033669fcafcbbffea92fc89e6387b07e781917a8d3",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "10c5ea6907dfc886292fdcd8ecc2bd2e67a9d14993d7aaff1b0ab54e9d8cb850",
             "version": "1.5.22"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "b0cba714a7532975ac7a11600e21d5e479f1e3c9eb456ebb1669e0dae7bbea5a",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "9c01885cc193569284d1d16eee47d789a2ae2ff7dd18e891005cb783f0146072",
             "version": "1.5.24"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "cb0dc8d87520f7db98b27cf07107ce2d4063865a5ec98eaad9fa15e3536c5766",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "8e2616bd7917e26bf54e2792f6cc8a3bfd6baf310b5f2769581532684f9f50e1",
             "version": "1.5.25"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "0971ed886bc75a694b9d00b74a82f69b9056f47850ac2fd84afc1c603145dc80",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "0495da49bd4414001ca812c7b16eca40f2538e28ba156cb7c00e9e8473b9f11d",
             "version": "1.5.6"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "d6f5f60f0ce009d417ec5fcbd2914bde04d890fc4743392606daedf8a63f25cf",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "858804c0e4efe82278080eccea76608cf7eb9963580e2ee2d6eb63ebff4c5dbd",
             "version": "1.5.8"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "bd3b8fcf9b5f48bcc32863b25073ae6f5eb0298fc108068af69116b118517912",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "752a049a802331fd91173772245fd6c70995fdaeaf5b4f2bb641138dad72fb89",
             "version": "1.6.25"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "6497be7e94d4e22d3f16e35b65d25cdd45faf0f00f2e17d8619d30b093935e70",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "0e7198d2905aad8f6258c479c4eff32a9652176191e46034983fae108ecb077a",
             "version": "2.1.28"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "d7e1f7d1254fe53569dc28ddcf1eed58370e2a9f68c2516b78e8aeaa0e1c8083",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "9c3b83a91b443b7c65dffda275b57bfcc2f635e1a18c4a724a2ea472f395bbb2",
             "version": "2.3.31"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "e924e67ba8f9b48e61f61541420052f275ae243dee37a3ad87f1add9a8b2c096",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "c3f3dd608927d28417481c941c08de34cbea982100425fa21f405162e88150e9",
             "version": "3.11.49"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "e41d31727aa974eed100e18e448d3e879201cf8d2963b10056182edf05bb320c",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "eb922a593fdbe12941c1545b4e4fe6649fea8cb8f8137bc4f1c7ede92fa9d2c0",
             "version": "3.11.50"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "6c4ce610b5491b7c73dffeed2e3611745b880a59aef9e6b20b2a146f509e4962",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "de546d260f36c27d8895ee95db90f1266355c5c2443dfab165ac62cc9e2d6122",
             "version": "3.16.29"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "e57a14df3ff8406736e1ecd5256009f34035ed41eb00aa0795ec1a61d9165cf0",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "c3cb2199f596ac014327c87a30bbe2be6f4d1cd2debcdc24a8cc860f220dad1f",
             "version": "3.18.38"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "35a493870701c50bbf099f71c1add43673f98a6de8c7df3669fc3b31bba33a05",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "831fbe9a01d8c7932086dd36a82f083ab0b9ea0f34f9a71ed124a8d14b2305af",
             "version": "3.2.38"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "bd3c80c5957c3418f2b45e41fa1ed4904e622eedcc27309a281e88391b12a133",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "6a72c6de0518dd97defa60a50dcd045f664b7131196adf6a1b9693c16260b201",
             "version": "3.3.39"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "ed934bf1308ab9d962989fcd74bfa7dc377ed960c9addd24a80989cc28219a7e",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "10087cea1b568055f3cc0ff54a9bc286a7a1764a20ca5f96291329f7121e26b0",
             "version": "3.5.41"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "0e6a9429a80122af9497b7ffdc5c09b8ae1305f6a6cad77ea99ad81637dce476",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "539fa58d36601a734af97929bebdad1c8c5b41a1290bd7a9e542b9327087a790",
             "version": "4.0.43"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "361061dfa5ca82e78751eb33f373b1f224cb0de578171c88521529088429c6df",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "e733e1f487e3fa117fa86e83c2482e9087c98ff6a4c4a747bc21db416dace020",
             "version": "5.0.46"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "d22e2546844dc3397c398270099566eabd5d32a68e910f456ebbfa670a2160e9",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "d6362f4930efc7035d0bcfaff64506b9d37c146ed510480d9dae04aab398101d",
             "version": "5.0.47"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "8a21b7a856668b684d991d901f0a02e8db161295291b634ed67a12c5bd9cb254",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "7692a3d48204cd932e22f800fdd612f54c35b3ba5111b1e891e8ebca3ca82884",
             "version": "5.0.50"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "ce98879846af2aaf110617fbb8d0f51d02c7650b25fb5facc6eea77e65978cdb",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "f2dff797725114f2e6a48560de9ebe7f42fbce80e2e9b830553bd7da4ef45cd8",
             "version": "5.0.51"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "5a74f036545d8ef5c8b045988778dc648c77f57edfc04d0c2b727e25d28bbf12",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "6b092a87136da355f35a7544463216da4f9c853af03580f664015dd2a70ef2a4",
             "version": "6.0.52"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "8bd1a3af271952cfbe7f7c6e18b78afae2d0bd156eaa912b8f276984b4b4e7e6",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "71b5199db994863269289efec6fbd536c92066a75ca4dadc6a2b961c68b7c772",
             "version": "6.0.54"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "466ef6b10fba5e64adf92bc37838a60bdb3d07abb986552705db311cbb583c76",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "e421f98e1139fee27363f14153c6923a33b1776f0e8dcfc70e2604d4dc8c099e",
             "version": "6.0.55"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "c08743382a0a3c0dd9ae10cdff1c4d6227bc458b297e172b875b1f56e70cdd1f",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "00d8ac26dd798d53be24fcb1e11b5d706a344426af519650ae9ce1de0c21ab94",
             "version": "6.0.57"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "4838216c6c74c86248c6b9fadee18793e94cc9983d133301e0ba820920a8bf03",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "8d7e82628003f3321fd196a4c1abc7cdca2e6a45532aabde280df9c378dbd8d7",
             "version": "6.0.58"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "6033cc608229bdfb4dcff9aa131651584290cb55ed0a32f06d60375f8e0f6de1",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "0a11925f8499253917eaee2d4e5ebf0597258eeb6177979eaabab00eff99444f",
             "version": "6.0.59"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "4614e339ebd1041232b8d2198e170547762a0de52cbf7c9004da2a2b076e90f2",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "b63754b7ecb99bf377fab03e5be23fd1334b1fa7c22d57647e31f6c3867606ab",
             "version": "7.0.60"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "cab2144da6080b4439dae6c1684f98611c65fccd4809a4998bf3dffca5a00834",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "e8adf8fcdd95e4222c27dd8f1a4f48621b407b5b32b7eabca4c66ca87b568895",
             "version": "7.0.61"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "7dd68cb35701bbfd006c3081ebe8adf0067876be745bfd00fba1df20cd43c521",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "4f282648723e4983b088fd91bb36b200d4e3480f56b880774d4a2b6d0571ab0c",
             "version": "7.0.62"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "17bdac68e7f1ff9cf27eb13ee8b41384f1a5fb830e53f9964072e903caa27c80",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "e1bca5707beab221b4f67ced35d280e39c42abe66b2c48f349503925194dd078",
             "version": "7.0.63"
         },
         {
             "recommended": false,
-            "releaseTime": "2026-05-12T17:20:20+00:00",
-            "sha256": "88c12c936e1b7265a4444fa54d5c202cb87b10afc96121e78673c5a466fceed3",
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "99a407e6007138288d12d84627a234f547b935ce65992c7ddbc95b64514621fd",
             "version": "7.0.72"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-05-27T06:56:08+00:00",
+            "sha256": "5a35459a636ecad808263204e947d2e5a810ac64b2fe9a4964475d2b23293b61",
+            "version": "8.0.73"
         }
     ]
 }

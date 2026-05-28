@@ -43,7 +43,7 @@
         },
         {
             "name": "Minecraft",
-            "sha256": "0d8fc3de85d654fd5bd028492347e445952f58e6afd033b971672baf87459b65",
+            "sha256": "905fc397dbdf073415c906a4205ae26464b1817cbc982a6329b1e8550e6b228a",
             "uid": "net.minecraft"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "4cb24bb719b25a257c84ef7aa6e6fef761776729e4c608d74148dab049ac4f82",
+            "sha256": "81d0539d16644cd54cdd763cbac9c288d0c19d0fca8647d0005a4ab54acfd761",
             "uid": "org.lwjgl3"
         },
         {

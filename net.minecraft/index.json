@@ -5,6 +5,19 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-05-28T12:45:31+00:00",
+            "requires": [
+                {
+                    "suggests": "3.4.1",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "9fea668a234faf1aaba5061805d582e1cdadaac816ae219cc57824d96158e3ef",
+            "type": "snapshot",
+            "version": "26.2-pre-2"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-05-26T13:48:31+00:00",
             "requires": [
                 {

@@ -5,6 +5,66 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-07-15T20:59:37.725926+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "43c6a428322ea678db9e0050a2865019101a0af80d19c6dab425641e7248a0be",
+            "version": "21.1.238"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-07-15T20:53:51.034306+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8d201193f30eb7f81c61fe9548b4a84b9747675f832228721b0202078abab89e",
+            "version": "21.3.97"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-07-15T20:47:05.689994+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c83ad175d8a76e51649fb08a6b054fc56d5143837bd6a8d3297af74bcd42c36b",
+            "version": "21.5.98"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-07-15T20:21:38.041811+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.11",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "25b0140d9f2981b5e4c7f8c275bd614c79dd60cceeacbec44bb2a61a05f82688",
+            "version": "21.11.44"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-07-15T20:06:35.754274+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "33a0fcab34b0fa89c60fceeeb9fb8c47f7d677d143eab5fc7138cb3028d13d68",
+            "version": "26.1.2.81"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-07-15T16:36:14.742680+00:00",
             "requires": [
                 {

@@ -137,6 +137,18 @@
         },
         {
             "recommended": false,
+            "releaseTime": "2026-07-04T16:54:36.353343+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c3c3654594da0894dc0bb9194e93230065f99ce0a22e028e144d4e7985479732",
+            "version": "21.1.236"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-07-02T13:56:54.705500+00:00",
             "requires": [
                 {

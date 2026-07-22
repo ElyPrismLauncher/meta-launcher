@@ -6,13 +6,13 @@
         {
             "recommended": false,
             "releaseTime": "2026-04-08T16:23:07+00:00",
-            "sha256": "e1d7fa670e103f997b7bc4de0dbe19cd1f67f146cb97b6ed63602f5f3e842b01",
+            "sha256": "468207948733b01bd5d7e20362c21f85c1de49e948a6cdb56905cc5f7e904448",
             "version": "java26"
         },
         {
             "recommended": false,
             "releaseTime": "2025-09-05T12:58:16+00:00",
-            "sha256": "89d7cdc72f064cb7af6cc1270e728c0887fb1d689c4e2f1770d79bcc60ba736c",
+            "sha256": "e527ce9bb2258d824f0bac21eb3561e23ee665ba53159be6997503a829a97b70",
             "version": "java25"
         },
         {
@@ -36,7 +36,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-10-11T21:35:23+00:00",
-            "sha256": "f57a08c26703a114a91ecff7fe5662137c86221d96dde92fca3614795779cd4e",
+            "sha256": "38704f40fccbee52520810595a159ad4bb38a219e8c7f3e04bab3b747265c937",
             "version": "java21"
         },
         {
@@ -60,7 +60,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-01-07T17:48:00+00:00",
-            "sha256": "54e8e079e7fdef4c73778c0442bb7865c3046a8f4f854b9cf6056b4d738ba311",
+            "sha256": "aac71f2d66b4f6ed29f86dcebb50b70e9d7add7c3142bbe61e0db37f47e3bbba",
             "version": "java17"
         },
         {
@@ -96,7 +96,7 @@
         {
             "recommended": false,
             "releaseTime": "2021-04-04T21:57:26+00:00",
-            "sha256": "fcb70caa1266ab2e6346e351b02ba5ddbce9298bddfbfc31978da9ce5b4c4ff3",
+            "sha256": "583a9152ef3d60fc35cefd4c4b6bb202ebc1aa35916118cbaacc35a115e2cf69",
             "version": "java11"
         },
         {
@@ -108,7 +108,7 @@
         {
             "recommended": false,
             "releaseTime": "2020-11-06T22:38:25+00:00",
-            "sha256": "a525f0a17779c8c6b060264ace3fbe1b345ae6a3f071651eff96db0ca079597e",
+            "sha256": "5ea545dbfef308dc66f0ad167e47f32f368aec6b428e260ceef99bc86dbdeeb0",
             "version": "java8"
         }
     ]

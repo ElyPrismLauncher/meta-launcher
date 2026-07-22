@@ -8,7 +8,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "94edb1409c5f05c0a116dddef7a29beb405531d3960151b10ad6948bb2fdfce2",
+            "sha256": "76b446b75c6fe5c380a8ef6d340ea9fc76dada031466ae25ffd6362cb298830b",
             "uid": "com.azul.java"
         },
         {
@@ -38,22 +38,22 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "1a3457b9112213a6ff0e5b90844cd22e0f592e53d1ded4200b6d85f080a503b1",
+            "sha256": "9049b3252d3824a93a2bc2252d68ad329315932c4c54e293a339c204ace1f5ce",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "d3b6a7fdbfcf1209769b02aeeb238fe56d87510d37cd3e4203b455a4cb732377",
+            "sha256": "cef745cede6c889f6c86983a7a587d21327adbf917b90d75199c2b2a8d06c557",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "7ac306c5222edb0eb8d93e0bf5d7d04e980187aa9ed9abff71d95b0c842781e4",
+            "sha256": "59b9c149c1cfd380dd23b4ebad8c13894caf54bcf2a8e505d9455950f2f1db7c",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "c9be6136ef41e438bcdcaa31e0f6ddfa90182e750424a1ca76f4e57eb2b41392",
+            "sha256": "2405a8502f7be43e478882cb000d3c30ca2e83ca9a3c1e76ac6105ff4ae0f51e",
             "uid": "net.minecraftforge"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "749b77e02457dffff68f472660633c2c49a9443dc4f56b6027ccb18acb5d6916",
+            "sha256": "034e7d2c90e009176618b120272c23abd32fb3bee528d6e70fb8b59958fdad3b",
             "uid": "org.lwjgl3"
         },
         {

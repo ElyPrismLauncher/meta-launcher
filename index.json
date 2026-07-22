@@ -8,7 +8,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "76b446b75c6fe5c380a8ef6d340ea9fc76dada031466ae25ffd6362cb298830b",
+            "sha256": "7761da982b1160c750b11edf9d45018dab63bce23debce1c4d2ff7151cfea5b6",
             "uid": "com.azul.java"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "59b9c149c1cfd380dd23b4ebad8c13894caf54bcf2a8e505d9455950f2f1db7c",
+            "sha256": "12f46edf3701dcd5c48ceb185e51cae5d1ad10a7ddb2f814ac1ece2e59d4ddd7",
             "uid": "net.minecraft.java"
         },
         {

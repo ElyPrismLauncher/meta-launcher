@@ -28,7 +28,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "e2c3150cdf32f16be4901cc5a3c66a3f81bd3431336ce1fb0782942d93268194",
+            "sha256": "ffb6f9e36e76dfcd36af58d7024bfb99a8958bce6ec555580109db19bc08d84e",
             "uid": "net.adoptium.java"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "a368805bcfde13665f0814db3aa698c30b5944fa840fa44f20f18c9b5eea59af",
+            "sha256": "31a8e865380c388c87ef276bb0d22ab7b4eed32f1458e0bef57e81307e1d2e20",
             "uid": "net.fabricmc.intermediary"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "f693710611a2dca2cf5967e13269030a72d2d4ec2f8831bbd855d9fda7b8cef4",
+            "sha256": "187e307176d8799204ee1e6145ed1f429f9268b90ad2b74a457678bfd6de43d1",
             "uid": "net.neoforged"
         },
         {

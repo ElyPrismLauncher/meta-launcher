@@ -33,7 +33,7 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "41df2faa608c1a6f7347eb7eb736eadc38d9ed0b4a9fe635602fbaca8bbb59ce",
+            "sha256": "a963013784201443081f73bf9a8ca585dca7b3aa355c72866f1c4e83009e634c",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "c07a85c8510731b657665a890f0e815e0e5008bf3e656164e69be64b1f35fd69",
+            "sha256": "6e7f3547fb7baeb18bda7870afc8e19bbbc3f731f8244c47e626bcd1955298b8",
             "uid": "net.neoforged"
         },
         {

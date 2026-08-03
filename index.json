@@ -33,12 +33,12 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "41df2faa608c1a6f7347eb7eb736eadc38d9ed0b4a9fe635602fbaca8bbb59ce",
+            "sha256": "5004e31944f2e48526e8e5303dd4dac0208e597300b745b9dc072127756dd41f",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "374f62b4c516de9eb7bb59dc9ee8bfacc98852f179880e3a9edf991a3840f5c7",
+            "sha256": "516df8589c4029e0d8af681175ebda2032c0141c66a4e5ef0344fcc84cc06ed6",
             "uid": "net.fabricmc.intermediary"
         },
         {

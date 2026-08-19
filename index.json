@@ -28,7 +28,7 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "811020302d97cd810dd301fe28debc264c0211794e775667227fd9c76a00e46a",
+            "sha256": "3efdc61db56729062d3ebb00667e590a9a814587d6370d9e7e766aae2ae3ca64",
             "uid": "net.adoptium.java"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "68c79a7e5e796b1161953585ba6690bee3df441dff442dbd7b1ee2a6896a04fa",
+            "sha256": "38ba1449e92aaa28d59789e2bb0e0d1a3ff274f1c31dc8ef14e9bebfe582272a",
             "uid": "net.fabricmc.intermediary"
         },
         {

@@ -4,7 +4,7 @@
     "uid": "moe.yushi.authlibinjector",
     "versions": [
         {
-            "recommended": false,
+            "recommended": true,
             "releaseTime": "2026-07-11T17:14:13+00:00",
             "sha256": "f3ce6ca220c476b4c3b71e07002acc52c2e4647e7cd99a79924f065d107e9f38",
             "type": "release",

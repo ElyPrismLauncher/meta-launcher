@@ -5,6 +5,30 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-09-23T12:58:23.980080+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "65351eaaaf767dd42b962c9dc0d2aac5f579a1035daeeaa83b07b158946b80a7",
+            "version": "26.3.0.12-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-09-23T12:52:00.116742+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "60516ce101792cf9172e94226eadba4a4efcc9bb20cc9bc6bf26dea0fddeda05",
+            "version": "26.3.0.11-beta"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-09-22T18:50:41.172246+00:00",
             "requires": [
                 {

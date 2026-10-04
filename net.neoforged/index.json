@@ -5,14 +5,14 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2026-10-04T06:31:16.913811+00:00",
+            "releaseTime": "2026-10-04T06:41:31.012823+00:00",
             "requires": [
                 {
                     "equals": "1.21.1",
                     "uid": "net.minecraft"
                 }
             ],
-            "sha256": "d8fbeac586a67bdceba18cd683cf9d0268978bdab35a63e1818fa51eca8ea802",
+            "sha256": "200d331f971d5bddac08cd3f0faf1fd212126b7e7fc9698ecdecbe7fb5306017",
             "type": "release",
             "version": "21.1.255"
         },

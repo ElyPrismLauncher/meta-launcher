@@ -6,14 +6,14 @@
                 "artifact": {
                     "sha1": "e484a7411b06d17e904b4f6f65ed24b19ea93a93",
                     "size": 68300,
-                    "url": "https://files.pineconemc.ru/maven/by/ely/authlib/1.5.25-ely.4/authlib-1.5.25-ely.4.jar"
+                    "url": "https://repo.llaun.ch/libraries/by/ely/authlib/1.5.25-ely.4/authlib-1.5.25-ely.4.jar"
                 }
             },
             "name": "by.ely:authlib:1.5.25-ely.4"
         }
     ],
     "name": "Ely.by Authlib",
-    "releaseTime": "2026-10-13T18:35:06+00:00",
+    "releaseTime": "2026-10-22T09:29:51+00:00",
     "uid": "by.ely.authlib",
     "version": "1.5.25"
 }

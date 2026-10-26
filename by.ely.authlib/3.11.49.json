@@ -4,16 +4,16 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "fb1fdc9898e1bbde1c4d35febbdbe96530d21e42",
+                    "sha1": "13160d1e5ecacfac051cc809ce6e801397afe92d",
                     "size": 124779,
-                    "url": "https://files.pineconemc.ru/maven/by/ely/authlib/3.11.49-ely.6/authlib-3.11.49-ely.6.jar"
+                    "url": "https://repo.llaun.ch/libraries/by/ely/authlib/3.11.49-ely.6/authlib-3.11.49-ely.6.jar"
                 }
             },
             "name": "by.ely:authlib:3.11.49-ely.6"
         }
     ],
     "name": "Ely.by Authlib",
-    "releaseTime": "2026-10-13T18:35:06+00:00",
+    "releaseTime": "2026-10-22T09:29:51+00:00",
     "uid": "by.ely.authlib",
     "version": "3.11.49"
 }

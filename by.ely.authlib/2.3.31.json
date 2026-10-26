@@ -6,7 +6,7 @@
                 "artifact": {
                     "sha1": "ed40d138ad7441669c058c0949c8a5b63adc223d",
                     "size": 91499,
-                    "url": "https://repo.llaun.ch/libraries/by/ely/authlib/2.3.31-ely.5/authlib-2.3.31-ely.5.jar"
+                    "url": "https://files.pineconemc.ru/maven/by/ely/authlib/2.3.31-ely.5/authlib-2.3.31-ely.5.jar"
                 }
             },
             "name": "by.ely:authlib:2.3.31-ely.5"

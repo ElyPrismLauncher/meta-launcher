@@ -4,9 +4,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "e39efb0c2bd5683e0730307b3148ad02f1d9057f",
+                    "sha1": "eceaeb50d648e317f588678a324bd8bf010cda3a",
                     "size": 63079,
-                    "url": "https://repo.llaun.ch/libraries/by/ely/authlib/1.5.6-ely.5/authlib-1.5.6-ely.5.jar"
+                    "url": "https://files.pineconemc.ru/maven/by/ely/authlib/1.5.6-ely.5/authlib-1.5.6-ely.5.jar"
                 }
             },
             "name": "by.ely:authlib:1.5.6-ely.5"

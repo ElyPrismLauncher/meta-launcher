@@ -1,5 +1,8 @@
 {
-    "+jvmArgs": [],
+    "+jvmArgs": [
+        "-XX:+UnlockDiagnosticVMOptions",
+        "-XX:-UseBASE64Intrinsics"
+    ],
     "+traits": [
         "XR:Initial",
         "FirstThreadOnMacOS",
@@ -242,7 +245,7 @@
                 {
                     "action": "allow",
                     "os": {
-                        "name": "osx"
+                        "name": "osx-arm64"
                     }
                 }
             ]

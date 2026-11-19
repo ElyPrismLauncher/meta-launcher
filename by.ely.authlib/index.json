@@ -102,6 +102,12 @@
         {
             "recommended": false,
             "releaseTime": "2026-11-19T12:57:28+00:00",
+            "sha256": "d0ee84ee4a9cef6419e4d1a7106b9ab12f0ddcc41e47cf14bbdbfc04c19e7650",
+            "version": "12.0.82"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-11-19T12:57:28+00:00",
             "sha256": "092dfae5613f230b24edbdcbb8805bb1002bd2cf750b762b5c1b2fa26fc92fda",
             "version": "2.1.28"
         },
@@ -260,12 +266,6 @@
             "releaseTime": "2026-11-19T12:57:28+00:00",
             "sha256": "7b90d05524dce85aa676d28c3c25eddc317a2f0751d2e882e37b4b5917f8afee",
             "version": "9.0.75"
-        },
-        {
-            "recommended": false,
-            "releaseTime": "2026-11-19T12:57:28+00:00",
-            "sha256": "d0ee84ee4a9cef6419e4d1a7106b9ab12f0ddcc41e47cf14bbdbfc04c19e7650",
-            "version": "12.0.82"
         }
     ]
 }
